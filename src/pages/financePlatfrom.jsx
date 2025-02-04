@@ -19,9 +19,9 @@ export default function FinancePlatform() {
 
 
             <div className="py-2">
-     
+
                 <ul className="flex flex-row items-center list-none space-x-4">
-                <h3 className="text-xl py-2">With Razorpay, you can:</h3>| 
+                    <h3 className="text-xl py-2">With Razorpay, you can:</h3>|
                     <li className="text-lg py-2 font-bold">Accept Payments</li>
                     <li className="text-lg py-2 font-bold">Make Payouts</li>
                     <li className="text-lg py-2 font-bold">Start Business Banking</li>
@@ -30,12 +30,12 @@ export default function FinancePlatform() {
                 </ul>
             </div>
 {/* <IconScroll/> */}
-<PosDevices/>
-<POSsibilities/>
-<Convenient/>
-<Notdeveloper/>
-<Support/>
-<Supercharge/>
+            <PosDevices />
+            <POSsibilities />
+            <Convenient />
+            <Notdeveloper />
+            <Support />
+            <Supercharge />
         </div>
     );
 }

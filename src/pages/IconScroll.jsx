@@ -1,5 +1,5 @@
 import React from 'react';
-import "../styles/IconScroll.CSS";
+import "../styles/IconScroll.css";
 
 const icons = [
   '🛒', '📦', '💳', '💰', '💸', 
