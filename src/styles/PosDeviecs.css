@@ -1,0 +1,9 @@
+
+@layer components {
+    .hover-expand {
+      @apply transition-all duration-500;
+    }
+    .hover-expand:hover {
+      @apply w-2/3;
+    }
+  }
